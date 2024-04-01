@@ -2,5 +2,6 @@
   "email_label": "E-mail",
   "password_label": "Mot de passe",
   "login_button": "Se connecter",
-  "products_text": "Products in French"
+  "products_text": "Products in French",
+  "products_list": "products list in french"
 }

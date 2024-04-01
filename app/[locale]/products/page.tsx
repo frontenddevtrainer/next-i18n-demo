@@ -1,8 +1,12 @@
-import { useTranslations } from "next-intl"
+import { useTranslations } from "next-intl";
+import { List } from "./list";
 
 export default function ProductPage() {
+  const t = useTranslations();
 
-    const t = useTranslations();
-
-  return <div>{t("products_text")}</div>;
+  return (
+    <div>
+      {t("products_text")} <List></List>
+    </div>
+  );
 }

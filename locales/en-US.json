@@ -2,5 +2,6 @@
   "email_label": "Email",
   "password_label": "Password",
   "login_button": "Login",
-  "products_text": "Products"
+  "products_text": "Products",
+  "products_list" : "products list"
 }
